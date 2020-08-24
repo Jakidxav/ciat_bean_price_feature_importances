@@ -11,14 +11,14 @@ envs_dirs:
  - /home/user/conda-envs/
 ```
 
-Then run:
+Once you are in the project directory, run:
 ```bash
-conda env create -f environment.yml -n ciat_gis
+conda env create -f environment.yml -n ciat
 ```
 
 And to activate the environment:
 ```bash
-conda activate ciat_gis
+conda activate ciat
 ```
 
 And then you should be up and running!
