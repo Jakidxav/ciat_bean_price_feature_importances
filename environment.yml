@@ -3,11 +3,11 @@ channels:
 - conda-forge
 dependencies:
 - python=3.7
-- numpy
-- pandas
-- xarray
-- matplotlib
-- rasterio
+- geopandas
 - ipython
 - ipykernel
-- pip
+- lxml
+- matplotlib
+- numpy
+- pandas
+- rasterio
