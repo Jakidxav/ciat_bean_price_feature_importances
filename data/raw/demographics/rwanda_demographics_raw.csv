@@ -1,4 +1,4 @@
-Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description,Note
+﻿Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description,Note
 "OA","Annual population","184","Rwanda","511","Total Population - Both sexes","3010","Population - Est. & Proj.","2000","2000","1000 persons","7933.681","X","International reliable sources",""
 "OA","Annual population","184","Rwanda","512","Total Population - Male","3010","Population - Est. & Proj.","2000","2000","1000 persons","3875.949","X","International reliable sources",""
 "OA","Annual population","184","Rwanda","513","Total Population - Female","3010","Population - Est. & Proj.","2000","2000","1000 persons","4057.739","X","International reliable sources",""
@@ -94,13 +94,3 @@ Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,
 "OA","Annual population","184","Rwanda","513","Total Population - Female","3010","Population - Est. & Proj.","2018","2018","1000 persons","6256.912","X","International reliable sources",""
 "OA","Annual population","184","Rwanda","551","Rural population","3010","Population - Est. & Proj.","2018","2018","1000 persons","10349.599","X","International reliable sources",""
 "OA","Annual population","184","Rwanda","561","Urban population","3010","Population - Est. & Proj.","2018","2018","1000 persons","2151.557","X","International reliable sources","UNDESA, Population Division – World Urbanization Prospects, the 2018 Revision"
-"OA","Annual population","184","Rwanda","511","Total Population - Both sexes","3010","Population - Est. & Proj.","2019","2019","1000 persons","12626.95","X","International reliable sources",""
-"OA","Annual population","184","Rwanda","512","Total Population - Male","3010","Population - Est. & Proj.","2019","2019","1000 persons","6206.086","X","International reliable sources",""
-"OA","Annual population","184","Rwanda","513","Total Population - Female","3010","Population - Est. & Proj.","2019","2019","1000 persons","6420.852","X","International reliable sources",""
-"OA","Annual population","184","Rwanda","551","Rural population","3010","Population - Est. & Proj.","2019","2019","1000 persons","10579.327","X","International reliable sources",""
-"OA","Annual population","184","Rwanda","561","Urban population","3010","Population - Est. & Proj.","2019","2019","1000 persons","2215.085","X","International reliable sources","UNDESA, Population Division – World Urbanization Prospects, the 2018 Revision"
-"OA","Annual population","184","Rwanda","511","Total Population - Both sexes","3010","Population - Est. & Proj.","2020","2020","1000 persons","12952.218","X","International reliable sources",""
-"OA","Annual population","184","Rwanda","512","Total Population - Male","3010","Population - Est. & Proj.","2020","2020","1000 persons","6367.431","X","International reliable sources",""
-"OA","Annual population","184","Rwanda","513","Total Population - Female","3010","Population - Est. & Proj.","2020","2020","1000 persons","6584.778","X","International reliable sources",""
-"OA","Annual population","184","Rwanda","551","Rural population","3010","Population - Est. & Proj.","2020","2020","1000 persons","10805.843","X","International reliable sources",""
-"OA","Annual population","184","Rwanda","561","Urban population","3010","Population - Est. & Proj.","2020","2020","1000 persons","2281.33","X","International reliable sources","UNDESA, Population Division – World Urbanization Prospects, the 2018 Revision"
