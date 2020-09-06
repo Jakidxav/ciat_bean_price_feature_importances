@@ -2,6 +2,7 @@
 This is the repository that holds my Jupyter Notebooks containing my analysis of bean price feature importances within the [PABRA](http://www.pabra-africa.org/) program at the International Center for Tropical Agriculture or [CIAT](https://ciat.cgiar.org/). Information about the data used in this study can be found at the following links:
 - [WorldClim](https://www.worldclim.org/data/monthlywth.html) global monthly temperature and precipiation data
 - [FAO GIEWS](https://fpma.apps.fao.org/giews/food-prices/tool/public/#/dataset/domestic) domestic food prices for beans
+- [FAOSTAT](http://www.fao.org/faostat/en/#data) population, land use/change, and food security indicators
 - [AfricaFertilizer](https://africafertilizer.org/national/#tab-id-3) national fertlizer prices
 
 ## Conda Environment:
@@ -29,4 +30,6 @@ The general flow of this repository goes something like this:
 
 - Jupyter Notebooks with `_eda.ipynb` appended at the end of their names are meant to be for general data exploration and plotting. These Notebooks take data from the `raw/` folder for a *single* topic, process it, and save it to its corresponding `processed/` folder.
 
-- The Notebook `combine_data.ipynb` takes all of these disparate data sources and merges them into one dataframe per country in the analysis.
+- The Notebook `merge_data.ipynb` takes all of these disparate data sources and merges them into one dataframe per country in the analysis.
+
+- Lastly, `feature_importances.ipynb` uses the four final datasets for Kenya, Rwanda, Tanzania, and Uganda and trains a XGBoost model on each one to determine the importance of individual variables on bean prices.
