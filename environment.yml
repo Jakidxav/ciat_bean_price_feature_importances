@@ -4,9 +4,13 @@ channels:
 dependencies:
 - python=3.7
 - geopandas
+- graphviz
 - jupyter
 - lxml
 - matplotlib
 - numpy
 - pandas
+- python-graphviz
 - rasterio
+- scikit-learn
+- xgboost
