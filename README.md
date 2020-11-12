@@ -1,6 +1,6 @@
 ## Description:
 This is the repository that holds my Jupyter Notebooks containing my analysis of bean price feature importances within the [PABRA](http://www.pabra-africa.org/) program at the International Center for Tropical Agriculture or [CIAT](https://ciat.cgiar.org/). Information about the data used in this study can be found at the following links:
-- [WorldClim](https://www.worldclim.org/data/monthlywth.html) global monthly temperature and precipiation data
+- [WorldClim](https://www.worldclim.org/data/monthlywth.html) global monthly temperature and precipitation data
 - [FAO GIEWS](https://fpma.apps.fao.org/giews/food-prices/tool/public/#/dataset/domestic) domestic food prices for beans
 - [FAOSTAT](http://www.fao.org/faostat/en/#data) population, land use/change, and food security indicators
 - [AfricaFertilizer](https://africafertilizer.org/national/#tab-id-3) national fertlizer prices
